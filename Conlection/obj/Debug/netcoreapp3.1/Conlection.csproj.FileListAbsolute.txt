@@ -1,0 +1,13 @@
+C:\Users\vui\Documents\Module2\Conlection\Conlection\obj\Debug\netcoreapp3.1\Conlection.csprojAssemblyReference.cache
+C:\Users\vui\Documents\Module2\Conlection\Conlection\obj\Debug\netcoreapp3.1\Conlection.AssemblyInfoInputs.cache
+C:\Users\vui\Documents\Module2\Conlection\Conlection\obj\Debug\netcoreapp3.1\Conlection.AssemblyInfo.cs
+C:\Users\vui\Documents\Module2\Conlection\Conlection\obj\Debug\netcoreapp3.1\Conlection.csproj.CoreCompileInputs.cache
+C:\Users\vui\Documents\Module2\Conlection\Conlection\bin\Debug\netcoreapp3.1\Conlection.exe
+C:\Users\vui\Documents\Module2\Conlection\Conlection\bin\Debug\netcoreapp3.1\Conlection.deps.json
+C:\Users\vui\Documents\Module2\Conlection\Conlection\bin\Debug\netcoreapp3.1\Conlection.runtimeconfig.json
+C:\Users\vui\Documents\Module2\Conlection\Conlection\bin\Debug\netcoreapp3.1\Conlection.runtimeconfig.dev.json
+C:\Users\vui\Documents\Module2\Conlection\Conlection\bin\Debug\netcoreapp3.1\Conlection.dll
+C:\Users\vui\Documents\Module2\Conlection\Conlection\bin\Debug\netcoreapp3.1\Conlection.pdb
+C:\Users\vui\Documents\Module2\Conlection\Conlection\obj\Debug\netcoreapp3.1\Conlection.dll
+C:\Users\vui\Documents\Module2\Conlection\Conlection\obj\Debug\netcoreapp3.1\Conlection.pdb
+C:\Users\vui\Documents\Module2\Conlection\Conlection\obj\Debug\netcoreapp3.1\Conlection.genruntimeconfig.cache

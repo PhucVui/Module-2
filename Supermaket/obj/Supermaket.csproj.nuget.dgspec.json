@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vui\\Documents\\Module2\\Conlection\\Conlection\\Conlection.csproj": {}
+    "C:\\Users\\vui\\source\\repos\\JSonFile\\Supermaket\\Supermaket.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vui\\Documents\\Module2\\Conlection\\Conlection\\Conlection.csproj": {
+    "C:\\Users\\vui\\source\\repos\\JSonFile\\Supermaket\\Supermaket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vui\\Documents\\Module2\\Conlection\\Conlection\\Conlection.csproj",
-        "projectName": "Conlection",
-        "projectPath": "C:\\Users\\vui\\Documents\\Module2\\Conlection\\Conlection\\Conlection.csproj",
+        "projectUniqueName": "C:\\Users\\vui\\source\\repos\\JSonFile\\Supermaket\\Supermaket.csproj",
+        "projectName": "Supermaket",
+        "projectPath": "C:\\Users\\vui\\source\\repos\\JSonFile\\Supermaket\\Supermaket.csproj",
         "packagesPath": "C:\\Users\\vui\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vui\\Documents\\Module2\\Conlection\\Conlection\\obj\\",
+        "outputPath": "C:\\Users\\vui\\source\\repos\\JSonFile\\Supermaket\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vui\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

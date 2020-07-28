@@ -56,7 +56,6 @@ namespace Conlection
                     break;
                 }
             }
-
             if (pos != -1)
             {
                 PostList[pos].DisPlay();

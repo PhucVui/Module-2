@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vui\\Documents\\Module2\\Conlection\\Conlection\\Conlection.csproj": {}
+    "C:\\Users\\vui\\Documents\\Module2\\Conlection\\Array and Method\\Array and Method.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vui\\Documents\\Module2\\Conlection\\Conlection\\Conlection.csproj": {
+    "C:\\Users\\vui\\Documents\\Module2\\Conlection\\Array and Method\\Array and Method.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vui\\Documents\\Module2\\Conlection\\Conlection\\Conlection.csproj",
-        "projectName": "Conlection",
-        "projectPath": "C:\\Users\\vui\\Documents\\Module2\\Conlection\\Conlection\\Conlection.csproj",
+        "projectUniqueName": "C:\\Users\\vui\\Documents\\Module2\\Conlection\\Array and Method\\Array and Method.csproj",
+        "projectName": "Array and Method",
+        "projectPath": "C:\\Users\\vui\\Documents\\Module2\\Conlection\\Array and Method\\Array and Method.csproj",
         "packagesPath": "C:\\Users\\vui\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vui\\Documents\\Module2\\Conlection\\Conlection\\obj\\",
+        "outputPath": "C:\\Users\\vui\\Documents\\Module2\\Conlection\\Array and Method\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vui\\AppData\\Roaming\\NuGet\\NuGet.Config",

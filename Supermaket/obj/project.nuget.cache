@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UtE9bsmcJQCzXYbevGrRgc0jiv9OT3mrie9rov/lZke7Jku3iL7jQQVQsaQOyWYcLdL+tGVehynhgWVPdwbPow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vui\\source\\repos\\JSonFile\\Supermaket\\Supermaket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vui\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

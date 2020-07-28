@@ -1,0 +1,15 @@
+C:\Users\vui\source\repos\JSonFile\Supermaket\bin\Debug\netcoreapp3.1\Supermaket.exe
+C:\Users\vui\source\repos\JSonFile\Supermaket\obj\Debug\netcoreapp3.1\Supermaket.csprojAssemblyReference.cache
+C:\Users\vui\source\repos\JSonFile\Supermaket\obj\Debug\netcoreapp3.1\Supermaket.AssemblyInfoInputs.cache
+C:\Users\vui\source\repos\JSonFile\Supermaket\obj\Debug\netcoreapp3.1\Supermaket.AssemblyInfo.cs
+C:\Users\vui\source\repos\JSonFile\Supermaket\bin\Debug\netcoreapp3.1\Supermaket.deps.json
+C:\Users\vui\source\repos\JSonFile\Supermaket\bin\Debug\netcoreapp3.1\Supermaket.runtimeconfig.json
+C:\Users\vui\source\repos\JSonFile\Supermaket\bin\Debug\netcoreapp3.1\Supermaket.runtimeconfig.dev.json
+C:\Users\vui\source\repos\JSonFile\Supermaket\bin\Debug\netcoreapp3.1\Supermaket.dll
+C:\Users\vui\source\repos\JSonFile\Supermaket\bin\Debug\netcoreapp3.1\Supermaket.pdb
+C:\Users\vui\source\repos\JSonFile\Supermaket\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vui\source\repos\JSonFile\Supermaket\obj\Debug\netcoreapp3.1\Supermaket.csproj.CoreCompileInputs.cache
+C:\Users\vui\source\repos\JSonFile\Supermaket\obj\Debug\netcoreapp3.1\Supermaket.csproj.CopyComplete
+C:\Users\vui\source\repos\JSonFile\Supermaket\obj\Debug\netcoreapp3.1\Supermaket.dll
+C:\Users\vui\source\repos\JSonFile\Supermaket\obj\Debug\netcoreapp3.1\Supermaket.pdb
+C:\Users\vui\source\repos\JSonFile\Supermaket\obj\Debug\netcoreapp3.1\Supermaket.genruntimeconfig.cache

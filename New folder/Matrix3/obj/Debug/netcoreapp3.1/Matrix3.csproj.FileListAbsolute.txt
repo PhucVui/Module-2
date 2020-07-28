@@ -1,0 +1,13 @@
+C:\Users\vui\source\repos\Matrix\Matrix3\bin\Debug\netcoreapp3.1\Matrix3.exe
+C:\Users\vui\source\repos\Matrix\Matrix3\bin\Debug\netcoreapp3.1\Matrix3.deps.json
+C:\Users\vui\source\repos\Matrix\Matrix3\bin\Debug\netcoreapp3.1\Matrix3.runtimeconfig.json
+C:\Users\vui\source\repos\Matrix\Matrix3\bin\Debug\netcoreapp3.1\Matrix3.runtimeconfig.dev.json
+C:\Users\vui\source\repos\Matrix\Matrix3\bin\Debug\netcoreapp3.1\Matrix3.dll
+C:\Users\vui\source\repos\Matrix\Matrix3\bin\Debug\netcoreapp3.1\Matrix3.pdb
+C:\Users\vui\source\repos\Matrix\Matrix3\obj\Debug\netcoreapp3.1\Matrix3.csprojAssemblyReference.cache
+C:\Users\vui\source\repos\Matrix\Matrix3\obj\Debug\netcoreapp3.1\Matrix3.AssemblyInfoInputs.cache
+C:\Users\vui\source\repos\Matrix\Matrix3\obj\Debug\netcoreapp3.1\Matrix3.AssemblyInfo.cs
+C:\Users\vui\source\repos\Matrix\Matrix3\obj\Debug\netcoreapp3.1\Matrix3.csproj.CoreCompileInputs.cache
+C:\Users\vui\source\repos\Matrix\Matrix3\obj\Debug\netcoreapp3.1\Matrix3.dll
+C:\Users\vui\source\repos\Matrix\Matrix3\obj\Debug\netcoreapp3.1\Matrix3.pdb
+C:\Users\vui\source\repos\Matrix\Matrix3\obj\Debug\netcoreapp3.1\Matrix3.genruntimeconfig.cache

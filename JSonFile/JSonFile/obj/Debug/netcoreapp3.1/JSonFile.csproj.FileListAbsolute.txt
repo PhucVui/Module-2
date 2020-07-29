@@ -1,0 +1,15 @@
+C:\Users\vui\source\repos\JSonFile\JSonFile\bin\Debug\netcoreapp3.1\JSonFile.exe
+C:\Users\vui\source\repos\JSonFile\JSonFile\obj\Debug\netcoreapp3.1\JSonFile.csprojAssemblyReference.cache
+C:\Users\vui\source\repos\JSonFile\JSonFile\obj\Debug\netcoreapp3.1\JSonFile.AssemblyInfoInputs.cache
+C:\Users\vui\source\repos\JSonFile\JSonFile\obj\Debug\netcoreapp3.1\JSonFile.AssemblyInfo.cs
+C:\Users\vui\source\repos\JSonFile\JSonFile\obj\Debug\netcoreapp3.1\JSonFile.csproj.CoreCompileInputs.cache
+C:\Users\vui\source\repos\JSonFile\JSonFile\bin\Debug\netcoreapp3.1\JSonFile.deps.json
+C:\Users\vui\source\repos\JSonFile\JSonFile\bin\Debug\netcoreapp3.1\JSonFile.runtimeconfig.json
+C:\Users\vui\source\repos\JSonFile\JSonFile\bin\Debug\netcoreapp3.1\JSonFile.runtimeconfig.dev.json
+C:\Users\vui\source\repos\JSonFile\JSonFile\bin\Debug\netcoreapp3.1\JSonFile.dll
+C:\Users\vui\source\repos\JSonFile\JSonFile\bin\Debug\netcoreapp3.1\JSonFile.pdb
+C:\Users\vui\source\repos\JSonFile\JSonFile\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vui\source\repos\JSonFile\JSonFile\obj\Debug\netcoreapp3.1\JSonFile.csproj.CopyComplete
+C:\Users\vui\source\repos\JSonFile\JSonFile\obj\Debug\netcoreapp3.1\JSonFile.dll
+C:\Users\vui\source\repos\JSonFile\JSonFile\obj\Debug\netcoreapp3.1\JSonFile.pdb
+C:\Users\vui\source\repos\JSonFile\JSonFile\obj\Debug\netcoreapp3.1\JSonFile.genruntimeconfig.cache

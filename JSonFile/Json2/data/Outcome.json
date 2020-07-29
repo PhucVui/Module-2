@@ -1,0 +1,26 @@
+[
+  {
+    "name": "vui",
+    "MaHS": "117",
+    "average": 8.75,
+    "Rank": "Gioi"
+  },
+  {
+    "name": "Tan",
+    "MaHS": "113",
+    "average": 8.375,
+    "Rank": "Gioi"
+  },
+  {
+    "name": "An",
+    "MaHS": "111",
+    "average": 7.25,
+    "Rank": "Kha"
+  },
+  {
+    "name": "son",
+    "MaHS": "115",
+    "average": 6.75,
+    "Rank": "Trung Binh Kha"
+  }
+]

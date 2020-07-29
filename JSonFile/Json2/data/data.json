@@ -1,0 +1,81 @@
+{
+  "students" : [
+    {
+      "MaHS": 111,
+      "HoTen": "An",
+      "Lop": "C05",
+      "DSMonHoc": [
+        {
+          "TenMonHoc": "Toan",
+          "DiemThi": 6.5
+        },
+        {
+          "TenMonHoc": "Ly",
+          "DiemThi": 8.5
+        },
+        {
+          "TenMonHoc": "Hoa",
+          "DiemThi": 7.5
+        }
+      ]
+    },
+    {
+      "MaHS": 113,
+      "HoTen": "Tan",
+      "Lop": "C05",
+      "DSMonHoc": [
+        {
+          "TenMonHoc": "Toan",
+          "DiemThi": 8
+        },
+        {
+          "TenMonHoc": "Ly",
+          "DiemThi": 8.5
+        },
+        {
+          "TenMonHoc": "Hoa",
+          "DiemThi": 9
+        }
+      ]
+    },
+    {
+      "MaHS": 115,
+      "HoTen": "son",
+      "Lop": "C05",
+      "DSMonHoc": [
+        {
+          "TenMonHoc": "Toan",
+          "DiemThi": 6
+        },
+        {
+          "TenMonHoc": "Ly",
+          "DiemThi": 7
+        },
+        {
+          "TenMonHoc": "Hoa",
+          "DiemThi": 8
+        }
+      ]
+    },
+    {
+      "MaHS": 117,
+      "HoTen": "vui",
+      "Lop": "C05",
+      "DSMonHoc": [
+        {
+          "TenMonHoc": "Toan",
+          "DiemThi": 8
+        },
+        {
+          "TenMonHoc": "Ly",
+          "DiemThi": 9
+        },
+        {
+          "TenMonHoc": "Hoa",
+          "DiemThi": 10
+        }
+      ]
+    }
+  ]
+
+}

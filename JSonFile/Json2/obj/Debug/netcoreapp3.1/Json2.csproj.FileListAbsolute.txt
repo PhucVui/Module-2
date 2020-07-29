@@ -1,0 +1,15 @@
+C:\Users\vui\source\repos\JSonFile\Json2\bin\Debug\netcoreapp3.1\Json2.exe
+C:\Users\vui\source\repos\JSonFile\Json2\obj\Debug\netcoreapp3.1\Json2.csprojAssemblyReference.cache
+C:\Users\vui\source\repos\JSonFile\Json2\obj\Debug\netcoreapp3.1\Json2.AssemblyInfoInputs.cache
+C:\Users\vui\source\repos\JSonFile\Json2\obj\Debug\netcoreapp3.1\Json2.AssemblyInfo.cs
+C:\Users\vui\source\repos\JSonFile\Json2\bin\Debug\netcoreapp3.1\Json2.deps.json
+C:\Users\vui\source\repos\JSonFile\Json2\bin\Debug\netcoreapp3.1\Json2.runtimeconfig.json
+C:\Users\vui\source\repos\JSonFile\Json2\bin\Debug\netcoreapp3.1\Json2.runtimeconfig.dev.json
+C:\Users\vui\source\repos\JSonFile\Json2\bin\Debug\netcoreapp3.1\Json2.dll
+C:\Users\vui\source\repos\JSonFile\Json2\bin\Debug\netcoreapp3.1\Json2.pdb
+C:\Users\vui\source\repos\JSonFile\Json2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vui\source\repos\JSonFile\Json2\obj\Debug\netcoreapp3.1\Json2.csproj.CoreCompileInputs.cache
+C:\Users\vui\source\repos\JSonFile\Json2\obj\Debug\netcoreapp3.1\Json2.csproj.CopyComplete
+C:\Users\vui\source\repos\JSonFile\Json2\obj\Debug\netcoreapp3.1\Json2.dll
+C:\Users\vui\source\repos\JSonFile\Json2\obj\Debug\netcoreapp3.1\Json2.pdb
+C:\Users\vui\source\repos\JSonFile\Json2\obj\Debug\netcoreapp3.1\Json2.genruntimeconfig.cache

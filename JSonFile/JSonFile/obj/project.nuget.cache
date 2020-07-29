@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/sAgD+4YOKrnL7pNHJ4A17Ka7aH8bUwJIS99Ve4cHCX5lc5apM2fXNLdkpFzyTbeaOjCgYZJA16F12PR+d/PUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vui\\source\\repos\\JSonFile\\JSonFile\\JSonFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vui\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

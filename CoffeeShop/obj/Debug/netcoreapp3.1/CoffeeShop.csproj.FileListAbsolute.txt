@@ -1,0 +1,15 @@
+C:\Users\vui\source\repos\JSonFile\CoffeeShop\bin\Debug\netcoreapp3.1\CoffeeShop.exe
+C:\Users\vui\source\repos\JSonFile\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.csprojAssemblyReference.cache
+C:\Users\vui\source\repos\JSonFile\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.AssemblyInfoInputs.cache
+C:\Users\vui\source\repos\JSonFile\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.AssemblyInfo.cs
+C:\Users\vui\source\repos\JSonFile\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\vui\source\repos\JSonFile\CoffeeShop\bin\Debug\netcoreapp3.1\CoffeeShop.deps.json
+C:\Users\vui\source\repos\JSonFile\CoffeeShop\bin\Debug\netcoreapp3.1\CoffeeShop.runtimeconfig.json
+C:\Users\vui\source\repos\JSonFile\CoffeeShop\bin\Debug\netcoreapp3.1\CoffeeShop.runtimeconfig.dev.json
+C:\Users\vui\source\repos\JSonFile\CoffeeShop\bin\Debug\netcoreapp3.1\CoffeeShop.dll
+C:\Users\vui\source\repos\JSonFile\CoffeeShop\bin\Debug\netcoreapp3.1\CoffeeShop.pdb
+C:\Users\vui\source\repos\JSonFile\CoffeeShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vui\source\repos\JSonFile\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.csproj.CopyComplete
+C:\Users\vui\source\repos\JSonFile\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.dll
+C:\Users\vui\source\repos\JSonFile\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.pdb
+C:\Users\vui\source\repos\JSonFile\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.genruntimeconfig.cache

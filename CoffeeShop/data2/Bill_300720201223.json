@@ -1,0 +1,19 @@
+{
+  "drinks": [
+    {
+      "name": "Orange Juice",
+      "price": 25000.0,
+      "amount": 1,
+      "totalDrink": 25000.0
+    },
+    {
+      "name": "Milk Coffee",
+      "price": 15000.0,
+      "amount": 1,
+      "totalDrink": 15000.0
+    }
+  ],
+  "NameTable": 2,
+  "Total": 40000.0,
+  "dateTime": "2020-07-30T00:24:06.5573905+07:00"
+}

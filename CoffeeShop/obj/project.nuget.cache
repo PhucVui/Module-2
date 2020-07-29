@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wtpRPlMjIfBaxJxI2SxA3FziogxmZPFHXsHLZfFXOqSS4Y7wHQ9A4QA+0ThzHjD1JBIAIComQhIXRfQBBGN7pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vui\\source\\repos\\JSonFile\\CoffeeShop\\CoffeeShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vui\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

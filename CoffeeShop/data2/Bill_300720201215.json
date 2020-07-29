@@ -1,0 +1,13 @@
+{
+  "drinks": [
+    {
+      "name": "Coke",
+      "price": 18000.0,
+      "amount": 1,
+      "totalDrink": 18000.0
+    }
+  ],
+  "NameTable": 7,
+  "Total": 18000.0,
+  "dateTime": "2020-07-30T00:15:52.934097+07:00"
+}
